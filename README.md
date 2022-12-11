@@ -8,15 +8,6 @@ Through the process of creating my own study guide, I worked out reworld coding 
 
 I am learning that some of these concepts I have encountered in past jobs and didn't realize it. That being said, there is still a lot to learn and it will be an uphill battle to get to the finishline. The concept is familiar, but the languages are new and need a lot of polishing through trial and error. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation) N/A
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
